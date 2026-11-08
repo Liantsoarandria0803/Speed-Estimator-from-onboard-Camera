@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+outputs/*
+!outputs/.gitkeep
+*.mp4
+*.mov
+*.avi
+*.pt
+*.pth
+
